@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/batch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/batch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/business/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/business/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrency/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrency/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flight-booking/domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flight-booking/domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flight-booking/integration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flight-booking/integration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flight-booking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flight-booking/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fundamentals/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fundamentals/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hello-world/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hello-world/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/home-cooking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/home-cooking/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/messages-channels/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/messages-channels/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitoring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitoring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trip-diary/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trip-diary/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twitter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twitter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webapp/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
